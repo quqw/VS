@@ -1,0 +1,16 @@
+E:\workspace\VS\pid\实时曲线绘制\bin\Debug\实时曲线绘制.exe
+E:\workspace\VS\pid\实时曲线绘制\bin\Debug\实时曲线绘制.pdb
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\pid.csprojResolveAssemblyReference.cache
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\Pid.FormMain.resources
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\实时曲线绘制.Properties.Resources.resources
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\pid.csproj.GenerateResource.Cache
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\实时曲线绘制.exe
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\实时曲线绘制.pdb
+E:\workspace\VS\pid\pid\obj\Debug\实时曲线绘制.exe
+E:\workspace\VS\pid\pid\obj\Debug\实时曲线绘制.pdb
+E:\workspace\VS\pid\pid\bin\Debug\实时曲线绘制.exe
+E:\workspace\VS\pid\pid\bin\Debug\实时曲线绘制.pdb
+E:\workspace\VS\pid\pid\obj\Debug\Pid.FormMain.resources
+E:\workspace\VS\pid\pid\obj\Debug\实时曲线绘制.Properties.Resources.resources
+E:\workspace\VS\pid\pid\obj\Debug\pid.csproj.GenerateResource.Cache
+E:\workspace\VS\pid\pid\obj\Debug\pid.csprojResolveAssemblyReference.cache

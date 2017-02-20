@@ -1,0 +1,2 @@
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\实时曲线绘制.exe
+E:\workspace\VS\pid\实时曲线绘制\obj\Debug\实时曲线绘制.pdb
